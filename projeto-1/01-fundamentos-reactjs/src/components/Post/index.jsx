@@ -17,6 +17,12 @@ export function Post() {
 
             <div className={styles.content}>
             <p> aksdapsokdasdmoasm dpasomdaps daspomd aspkd sapodaspokdas podlkaspcczç m sf </p>
+            <p>👉🏻 <a href="#">Clique aqui para navegar</a></p>
+            <p>
+                <a href="#">#projeto</a>{' '}
+                <a href="#">#nlw</a>{' '}
+                <a href="#">#rocketseat</a>{' '}
+            </p>
                 
             </div>
         </article>
