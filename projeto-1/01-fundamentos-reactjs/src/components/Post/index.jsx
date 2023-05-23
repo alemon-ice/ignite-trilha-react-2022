@@ -6,7 +6,7 @@ export function Post() {
             <header>
                 <div className={styles.author}>
                     <img className={styles.avatar} src="https://avatars.githubusercontent.com/u/43359988?v=4" />
-                    <div>
+                    <div className={styles.authorInfo}>
                         <strong>Rafael Dias</strong>
                         <span>Web Developer</span>
                     </div>
@@ -16,7 +16,9 @@ export function Post() {
             </header>
 
             <div className={styles.content}>
-            <p> aksdapsokdasdmoasm dpasomdaps daspomd aspkd sapodaspokdas podlkaspcczç m sf </p>
+            <p>
+                Aliquam erat volutpat. Donec et lorem mattis, scelerisque ligula a, aliquam dolor. Nulla ultrices justo dictum massa aliquet, a mollis turpis aliquet. Sed fermentum sed erat vitae fringilla.
+            </p>
             <p>👉🏻 <a href="#">Clique aqui para navegar</a></p>
             <p>
                 <a href="#">#projeto</a>{' '}
